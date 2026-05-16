@@ -58,7 +58,7 @@ int getFastTravelTime(string from, string to) {
 vector<Attraction> fetchFromGroq(const string& query) {
     vector<Attraction> results;
 
-    string API_KEY = "REMOVED834WzGKI3pUY3QYlQBgbWGdyb3FYTHygszEuyQ9xzwvW7SVfzjQc";
+    string API_KEY = "YOUR_API_KEY";
 
     string url = "https://api.groq.com/openai/v1/chat/completions";
 

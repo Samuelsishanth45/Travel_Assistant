@@ -15,7 +15,7 @@
 using namespace std;
 
 // Your Google Maps API Key - Replace with your actual key
-const string GOOGLE_MAPS_API_KEY = "AIzaSyBkhw16n7-XAVGpN19Cus3qRlwVMxNA6vQ";
+const string GOOGLE_MAPS_API_KEY = "YOUR_API_KEY";
 
 /*
 struct Station {
